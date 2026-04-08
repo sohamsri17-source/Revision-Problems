@@ -14,6 +14,7 @@ class Solution(object):
         return ''.join(self.merged)  # Return string result
 
 # Usage (interactive inputs)
+# Creating Multiple Objects
 word1 = input("Enter word1: ")
 word2 = input("Enter word2: ")
 merged_word = Solution(word1, word2)
